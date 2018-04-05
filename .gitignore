@@ -1,0 +1,30 @@
+# log and cache folders
+tmp/*
+var/*
+var/
+var/cache/
+var/locks/
+var/log/
+var/session/
+var/report/
+
+
+# connection files
+app/etc/local.xml
+app/etc/config.xml
+
+# media folder
+media/
+demo/
+demo/*
+demo
+.htaccess
+
+# history files
+.idea/
+.idea/*
+.idea
+app/.DS_Store
+shell/error_log.file
+shell/error_log
+error_log
